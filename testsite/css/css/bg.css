@@ -1,0 +1,37 @@
+body{
+/*    bgc+tab to get background color*/
+/*    background-color: lightblue;*/
+/*
+      background-image: url("../images/bg1.jpeg");
+     
+*/
+/*    no repet is put to not repeat the image, one center is to align from top and bottom, and another center is to align from left and right ,fixed is to fix it up so that it wont broke when minimized the tab , backgroung size is fixed as cover to be apper on full size   */
+    background: url("../images/bgcat.jpg")
+    no-repeat center center fixed;
+    background-size: cover;
+    
+}
+
+
+div{
+    
+    background-color: aqua;
+    opacity: 0.8;
+}
+
+
+
+h1{
+    color: black;
+/*    to align the text in center */
+    text-align: center;
+    width: 500px;
+    padding: 20px;
+    margin: 100px auto;
+    font-family: "Baskervville SC", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+    
+    
+}

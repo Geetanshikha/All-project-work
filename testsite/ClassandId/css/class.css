@@ -1,0 +1,21 @@
+div{
+   background: green;
+   height: 100px;
+
+}
+
+/*we will make class class will start from . */
+
+.black{
+    background: black;
+    height: 100px;
+    color: white;
+/*    coloris basically used for text color*/
+}
+
+.pink{
+  background: hotpink;
+  height: 100px;    
+
+}
+/*ok so these classes can be used anywhere !*/

@@ -1,0 +1,45 @@
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+    
+}
+
+
+li{
+    
+    float: left; 
+/*    taaki horizontal ho jaye */
+/*
+    border:ridge 2px black;
+
+*/
+}
+
+li a{
+    display: block;
+    color: orange;
+    text-align: center;
+    padding: 15px 18px;
+    text-decoration: none;
+/*    a tag mein jo likha hai na list ke andar usmein css apply hogi */
+}
+
+li a:hover{
+    background-color: mediumpurple;
+/*    matlab agr aap kisi tab pe hover kroge toh uska coor hai vo yeh ho jayega */
+}
+
+.righty{
+ float: right;
+/*    right ki sde shift kr denge bar ko*/
+}
+
+.active{
+  background-color: crimson;
+/*    agr koi tab active hogi toh uska color crimson ho jayeg a*/
+}
+
+

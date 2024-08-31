@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: none;
+    border: none;
+    box-sizing: border-box;
+    
+}
+
+body{
+   
+    min-height: 100%;
+    background: radial-gradient(purple , blue)
+}

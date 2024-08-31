@@ -1,0 +1,24 @@
+.big{
+   
+    height: 400px;
+/*    to apply linear gradient*/
+    background: linear-gradient(blue ,purple ,white, blue);
+}
+
+.circle{
+    height:400px;
+/*    to apply radial gradient*/
+    background: radial-gradient(grey ,white);
+}
+
+.conic{
+    height: 400px;
+/*    to apply conic gradient*/
+    background: conic-gradient(red, yellow, green);
+    
+}
+
+input[type="checkbox"]:checked + label {
+
+    text-decoration: line-through;
+}

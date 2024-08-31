@@ -1,0 +1,106 @@
+div{
+    height: 700px;
+/*    background-color: grey;*/
+    margin: 0 ;
+    padding: 0;
+
+}
+
+.blue{
+    
+    background-color: lightskyblue;
+}
+
+h1{
+     text-align: center;
+     margin: 0;
+     padding: 0;
+     
+
+}
+
+
+.center{
+    
+    width: 500px;
+    margin: 0 auto;
+    padding-top: 250px;
+}
+
+
+p{
+     text-align: center;
+     margin: 0;
+     padding:0;
+     
+     
+}
+
+
+ul{
+    
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: lightblue;
+    opacity:0.8;
+    height: 50px;
+
+} 
+
+li{
+    float:left;
+}
+
+li a
+{
+    display: inline-block;
+    color: black;
+    text-align: center;
+    padding: 12px 18px;
+    margin: 0 auto;
+    text-decoration: none;
+}
+
+li a:hover{
+    background-color: mediumpurple;
+}
+
+.righty{
+    float: right;
+}
+
+.active{
+    background-color: crimson;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

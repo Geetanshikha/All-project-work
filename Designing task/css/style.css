@@ -1,0 +1,232 @@
+body{
+    background-color: black;
+    color: white;
+
+}
+
+.container{
+    display: flex;
+    justify-content:  space-between;
+}
+
+
+.main{
+  width: 1440px;
+  height: 697px;
+  margin-top: 18px;
+  opacity: 18%;    
+    
+}
+
+.first{
+    text-align:left;
+    padding-top: 82px;
+    padding-left: 100px;
+    width: Fixed (1,110px);
+    height: Hug (120px);
+    Gap: 16px;
+    font-size: 36px;
+    line-height: 44px;
+    font-weight: 500;
+    
+}
+
+
+.second{
+  width: 763px;
+  height: 60px;    
+}
+
+
+.par{
+font-size: 20px;
+font-weight: 400;
+line-height: 30px;
+text-align: left;
+     
+}
+
+.third{
+   width: Hug (208px);
+   Height: Hug (44px);
+   border-radius:8px;
+   padding: 8px, 16px, 8px, 16px;
+   Gap:10px; 
+
+}
+
+.fourth{
+    
+   width: Hug (138px)px;
+   height: Hug (46px)px;
+   padding: 8px 16px 8px 16px;
+   gap: 10px;
+   border-radius: 8px; 
+   background-color: #121212CC;
+   color: white;  
+   border-color: #1D2939;
+   
+}
+
+.btn:hover{
+    background-color: cyan;
+}
+
+.five{
+   width: Fixed (1,188px)px;
+   height: Hug (356.14px)px;
+   gap: 48px;
+   padding: 88px, 40px, 72px, 40px;
+   border:  1px;
+   border-radius:  12px;
+   border-color: #1D2939;    
+}
+
+.six{
+    width: Fill (1,108px)px;
+    height: Hug (196.14px)px;
+    gap: 24px;
+
+}
+
+.seven{
+    width: Fill (541px)px;
+    height: Hug (158px)px;
+    gap: 16px;
+}
+
+.eight{
+   width: Fixed (543px)px;
+   height: Hug (196.14px)px;
+   padding: 0 20px 0 20px;
+   gap: 12px;
+}
+
+.nine{
+    width: 489px;
+    height: 52px;
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 38px;
+    text-align: left;
+    color: aqua;
+
+}
+
+.ten{
+    width: 463px;
+    height: 90px;
+}
+
+.eleven{
+    
+   font-size: 18px;
+   font-weight: 400;
+   line-height: 30px;
+   text-align: left;
+}
+
+.twelve{
+    width: Hug (184px)px;
+    height: Fixed (57.38px)px;
+    padding: 12px ;
+    gap: 12px;
+    border-radius: 12px;
+    border: 1px ;
+    color: aqua;
+    border-color: white;
+}
+
+.thrteen{
+    box-sizing: border-box;
+    border: 4px solid thick white;
+}
+
+.forteen{
+    width: Hug (441px)px;
+    height: Hug (57.38px)px;
+    gap: 12px;
+}
+
+.fiften{
+   width: Hug (351px)px;
+   height: Hug (57.38px)px;
+   gap: 12px;
+}
+
+.sixteen{
+   width: Hug (395px)px;
+   height: Fixed (57.38px)px;
+   padding: 12px;
+   gap: 10px;
+   border-radius: 12px;
+   border: 1px ;
+
+}
+
+.col{
+    color: cyan;
+}
+
+.icon{
+    width: 28.46px;
+    height: 28.46px;
+    top: 11.93px;
+    left: 6px;
+}
+
+.btn1{
+    width: Hug (184px)px;
+    height: Fixed (57.38px)px;
+    padding: 12px 12px 12px 12px;
+    gap: 10px;
+}
+
+.spacing {
+    column-gap: 10px;
+    
+}
+
+.btn2{
+    width: Hug (245px)px;
+    height: Fixed (57.38px)px;
+    padding: 12px 12px 12px 12px;
+    gap: 10px;
+    border: 1px 0 0 0;
+}
+
+.pad{
+    margin-left: 40px;
+    margin-right: 10px;
+    margin-top: -25px;
+    
+}
+
+.pad1{
+    margin-left: 60px;
+    margin-top: 10px;
+}
+
+.pad2{
+    margin-left: 50px;
+    margin-top: 10px;
+}
+
+.pad3{
+    margin-left:50px;
+}
+.pad4{
+    margin-left: 30px;
+    margin-top: -25px;
+}
+
+.top{
+    margin-top: 10px;
+}
+
+
+
+
+
+
+
